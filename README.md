@@ -19,4 +19,4 @@ Game devs didn't had any issue, as long as it was used purely for data gathering
 This allowed me to quickly obtain huge amount of data from two sources, "Black market" and Flea market.
 Giving back some fat profits :)
 
-I'm mostly trying my luck with Python, and since recently C as well.
+I'm mostly trying my luck with Python.
